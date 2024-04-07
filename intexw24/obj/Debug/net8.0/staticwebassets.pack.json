@@ -245,6 +245,10 @@
       "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
     },
     {
+      "Id": "/Users/joshuamichaelson/Desktop/INTEXW24/intexw24/wwwroot/lib/qrcode.min.js",
+      "PackagePath": "staticwebassets/lib/qrcode.min.js"
+    },
+    {
       "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.intexw24.props",
       "PackagePath": "build\\intexw24.props"
     },
