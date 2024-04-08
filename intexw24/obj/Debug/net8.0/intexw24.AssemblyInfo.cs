@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("intexw24")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+24f3002ad0e08da9a1e32c626bf20464f4910be9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7cf81420c539d19f7cb7334d5db82faf2203d997")]
 [assembly: System.Reflection.AssemblyProductAttribute("intexw24")]
 [assembly: System.Reflection.AssemblyTitleAttribute("intexw24")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
