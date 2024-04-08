@@ -1,4 +1,12 @@
 intexw24.csproj
 obj/
 bin/
+.obj/
+.bin/
+*/obj/
+*/bin/
+~/obj/
+~/bin/
+**/obj/
+**/bin/
 intexw24.db
